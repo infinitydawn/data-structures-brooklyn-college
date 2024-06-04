@@ -1,0 +1,8 @@
+1001 Apple 1200.00
+1002 Google 800.00
+1003 Amazon 1500.50
+1004 Microsoft 950.00
+1005 Tesla 725.25
+1005 Tesla 725.25
+1006 Facebook 430.00
+1007 Netflix 1234.00

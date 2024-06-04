@@ -1,0 +1,100 @@
+--------------------------------------------------
+
+Apple  (Customer #1001)
+
+                  Previous Balance     $1200.00
+
+Transaction #01   Hammer               $150.00
+Transaction #02   Payment             -$550.00
+Transaction #15   Drill                $225.00
+Transaction #16   Payment             -$300.00
+Transaction #29   Ladders              $198.00
+Transaction #30   Payment             -$460.00
+
+                  Balance Due          $463.00
+
+
+--------------------------------------------------
+
+Google  (Customer #1002)
+
+                  Previous Balance     $800.00
+
+Transaction #03   Nails                $5.00
+Transaction #04   Payment             -$210.00
+Transaction #17   Paint                $499.75
+Transaction #18   Payment             -$125.00
+
+                  Balance Due          $969.75
+
+
+--------------------------------------------------
+
+Amazon  (Customer #1003)
+
+                  Previous Balance     $1500.50
+
+Transaction #05   Screwdriver          $75.00
+Transaction #06   Payment             -$330.00
+Transaction #19   Drill                $105.00
+Transaction #20   Payment             -$156.00
+
+                  Balance Due          $1194.50
+
+
+--------------------------------------------------
+
+Microsoft  (Customer #1004)
+
+                  Previous Balance     $950.00
+
+Transaction #07   Paint                $525.00
+Transaction #08   Payment             -$560.00
+Transaction #21   Varnish              $220.00
+Transaction #22   Payment             -$207.00
+
+                  Balance Due          $928.00
+
+
+--------------------------------------------------
+
+Tesla  (Customer #1005)
+
+                  Previous Balance     $725.25
+
+Transaction #09   Brushes              $70.00
+Transaction #10   Payment             -$105.00
+Transaction #23   Roller               $67.50
+Transaction #24   Payment             -$72.50
+
+                  Balance Due          $685.25
+
+
+--------------------------------------------------
+
+Facebook  (Customer #1006)
+
+                  Previous Balance     $430.00
+
+Transaction #11   Wood                 $900.00
+Transaction #12   Payment             -$875.50
+Transaction #25   Sandpaper            $62.50
+Transaction #26   Payment             -$123.00
+
+                  Balance Due          $394.00
+
+
+--------------------------------------------------
+
+Netflix  (Customer #1007)
+
+                  Previous Balance     $1234.00
+
+Transaction #13   Screws               $5.00
+Transaction #14   Payment             -$172.50
+Transaction #27   Nails                $20.00
+Transaction #28   Payment             -$308.20
+
+                  Balance Due          $778.30
+
+
